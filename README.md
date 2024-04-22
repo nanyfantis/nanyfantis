@@ -1,4 +1,4 @@
-### 👋Hi, I'm Neofytos!
+### 👋 Hi! I'm Neofytos.<br>
 💻 Software Engineer.<br>🎓 Studied Computer Science at the The Department of Computer Science and Biomedical Informatics, University of Thessaly, Greece.<br>🔒 Cyber Security Enthusiast.<br>🕒 Currently expanding my knowledge to networking...
 
 
