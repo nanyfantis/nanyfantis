@@ -8,7 +8,6 @@
 ![Neofyto's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanyfantis&hide=contribs,prs,stars&show_icons=true&theme=radical)<br/>
 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
